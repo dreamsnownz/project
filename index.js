@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=
     , initial-scale=1.0">
     <title>Git</title>
-    <link rel="stylesheet" href="./index.css">
-    <script src="./index.js"></script>
 </head>
 <body>
     <h1>更改</h1>
